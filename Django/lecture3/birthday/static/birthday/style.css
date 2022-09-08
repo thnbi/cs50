@@ -1,0 +1,11 @@
+h1 {
+   font-family: Arial, sans-serif;
+   font-size: 90px;
+}
+
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
